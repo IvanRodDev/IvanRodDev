@@ -39,7 +39,8 @@
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![Anurag's GitHub stats](https://test-git-main-shusdes-projects.vercel.app/api?username=IvanRodDev)](https://github.com/IvanRodDev/github-readme-stats)
+[![Anurag's GitHub stats](https://test-git-main-shusdes-projects.vercel.app/api?username=IvanRodDev&theme=react&show_icons=true&rank_icon=github)](https://github.com/IvanRodDev/github-readme-stats)
+![Top Langs](https://test-git-main-shusdes-projects.vercel.app/api/top-langs/?username=IvanRodDev&layout=compact&theme=react&show_icons=true&rank_icon=github)
 
 <br/><br/>
 
